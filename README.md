@@ -32,6 +32,8 @@ Installation
 
 Type "make".
 
+librtlsdr library is required for buiding, install librtlsdr-dev lib before run make command
+
 Normal usage
 ---
 
